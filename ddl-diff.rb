@@ -1,4 +1,4 @@
-class ddl-diff < Formula
+class DdlDiff < Formula
   desc "A tool to compare two databases and generate a diff for MariaDB."
   homepage "https://github.com/KURANADO2/ddl-diff"
   url "https://codeload.github.com/KURANADO2/ddl-diff/tar.gz/refs/tags/0.1.5"
